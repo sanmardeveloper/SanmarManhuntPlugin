@@ -1,0 +1,10 @@
+name: SanmarManhunt
+version: 1.0
+main: com.sanmar.sanmarmanhunt.SanmarManhunt
+api-version: 1.19
+
+# Команды плагина
+commands:
+  manhunt:
+    description: Запуск и управление Manhunt
+    usage: /manhunt <start|stop>

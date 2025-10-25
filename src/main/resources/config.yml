@@ -1,0 +1,3 @@
+nether:
+  enabled: false
+  time_to_enable: 1200
