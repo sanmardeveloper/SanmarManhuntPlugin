@@ -15,7 +15,10 @@ import org.bukkit.scoreboard.Team;
 import java.awt.*;
 
 public final class SanmarManhunt extends JavaPlugin implements Listener {
-
+    //TODO recipes
+    //TODO announcements
+    //TODO bugfixes
+    //TODO optimisation
 
 
 
